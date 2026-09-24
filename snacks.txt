@@ -1,4 +1,4 @@
-Oranges,
-Twisties,
+Apples
+Oranges
+Twisties
 Twix
-Apple.
