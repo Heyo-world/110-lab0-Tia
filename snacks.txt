@@ -1,4 +1,4 @@
 Oranges,
 Twisties,
 Twix
-Apple
+Apple.
